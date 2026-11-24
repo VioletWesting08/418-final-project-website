@@ -16,7 +16,7 @@ We will implement and benchmark chunked recirculation on NVIDIA GPUs using PyTor
 ## Project Documents
 
 - [Project Proposal](proposal.html)
-- Milestone Report (Coming November 23)
+- [Milestone Report](milestone.html)
 - Final Report (Coming December 10)
 
 ## Project Timeline
